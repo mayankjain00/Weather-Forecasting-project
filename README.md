@@ -7,9 +7,9 @@ GlobalLandTemperaturesByMajorCity
 **
 -
 **Aim
-**  
+**  To provide the datsset with recommendations based on the personalized Weather-Forecasting content.
 
-  To provide the datsset with recommendations based on the personalized Weather-Forecasting content.
+  
 -
 
 **Tools & Technology used:**
@@ -22,33 +22,25 @@ GlobalLandTemperaturesByMajorCity
 
 -
 
-##
-
-
-
-
-
-
-
-System Requirement:
-** Python 3.6
-BeautifulSoup
+## Output
+![top 5 result](https://user-images.githubusercontent.com/68777455/173135337-3d0f3d8b-21af-4278-8179-627aa84c3395.JPG)
+![data cleaning](https://user-images.githubusercontent.com/68777455/173135405-f5c0afef-d034-4a2b-b5e1-409c2ca788c9.JPG)
+![weth](https://user-images.githubusercontent.com/68777455/173135419-19df6d4b-9bd1-4d90-8ede-aa940d849297.JPG)
+-
+## System Requirement
+<ul> Python 3.6
+</ul> BeautifulSoup
 Pandas
 Numpy
 Matplotlib
 Sklearn
 wxPython
-**
+
+-
 
 
 
-
-
-
-
-
-
-User Guide:
+> User Guide:
 
 ** Step 1: Download & Install Python 3.6
 Step 2: Go to Terminal & Download Python Library (py -3.6 –m pip install ____)
