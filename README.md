@@ -10,3 +10,6 @@ import seaborn as sns
 
 # ----datetime objects---- #
 #from datetime import datetime, timedelta
+
+data=pd.read_csv("GlobalLandTemperaturesByMajorCity.csv")
+data
