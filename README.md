@@ -22,3 +22,41 @@ data.head()
 
 #all infromation in data
 data.info()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Developer Tools:
+
+** Programming Language: Python
+IDE: PyCharm
+GUI: wxPython, wxFormBuilder
+Web Scraping: BeautifulSoup, ParseHub
+Debugging & Testing: Jupyter Notebook
+Data Format: Microsoft Excel
