@@ -34,6 +34,17 @@ data.info()
 
 
 
+System Requirement:
+** Python 3.6
+BeautifulSoup
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Openpyxl
+Sklearn
+wxPython
+**
 
 
 
@@ -43,8 +54,14 @@ data.info()
 
 
 
+User Guide:
 
+** Step 1: Download & Install Python 3.6
+Step 2: Go to Terminal & Download Python Library (py -3.6 –m pip install ____)
+Step 3: Go to ‘Weather_Prediction’ folder & click data set and download
+Step 4: The forecast result will be stored in ‘prediction’ folder. The prediction statistics will be stored in ‘statistics’ folder
 
+**
 
 
 
